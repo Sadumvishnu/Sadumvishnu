@@ -1,0 +1,16 @@
+-->ESC:It will take us to command mode.
+-->q:Exit.
+-->i:Take view to insert mode.
+-->u:Undo your last changes.
+-->o:Open a new line.
+-->dd:Delet the current line.
+-->D:Delete all contents.
+-->C:Delete some contents of line .
+-->X:Delete character at cursor.
+-->dw:delete the word.
+-->4dw:To delet four words at a time.
+-->cw:Change the word.
+-->:w:To save the file,but the file will be in open.
+-->q:Quit without saving.
+-->:wq:Save the file and quit.
+-->gg:To move the cursor to the first letter of the line.
